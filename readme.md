@@ -13,7 +13,7 @@
 - [@matteomarchiori](https://github.com/matteomarchiori)
 - Luca
 - Pietro V
-- Giorgio 
+- Giorgio
 - Livio
 - Andrea M
 - Piervito
@@ -23,5 +23,5 @@
 - Tommaso
 - Francesco
 - Mariangela
-
 - Matteo R.
+- Devlogs
